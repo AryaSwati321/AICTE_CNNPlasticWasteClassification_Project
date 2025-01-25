@@ -50,6 +50,8 @@ The dataset used consists of images of various waste types, divided into:
 
 🏋️‍♂️ Training set
 🧪 Testing set
+Link:Waste Classification Data
+https://www.kaggle.com/datasets/techsash/waste-classification-data/data
 
 
 🏗️ Model Architecture
