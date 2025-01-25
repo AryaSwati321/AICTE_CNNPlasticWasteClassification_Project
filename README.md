@@ -54,10 +54,16 @@ The dataset used consists of images of various waste types, divided into:
 
 🏗️ Model Architecture
  Depicts the architectural model of a Convolutional Neural Network (CNN) designed for plastic waste management:
+
 1️⃣ Input Layer: Takes images of waste (e.g., bottles, bags, organic material).
+
 2️⃣ Conv2D Layers: Extracts features using filters and kernels to identify patterns in waste images.
+
 3️⃣ MaxPooling2D Layers: Reduces spatial dimensions while preserving key features, improving computational efficiency.
+
 4️⃣ Flatten Layer: Converts 2D feature maps into a 1D vector for further processing.
+
 5️⃣ Dense Layers: Fully connected layers with ReLU activation to analyze and refine features.
+
 6️⃣ Softmax Output Layer: Predicts the waste category (e.g., Recyclable, Non-Recyclable, Organic).
 This architecture enables accurate waste classification, aiding in better waste management practices. 🚮✨
