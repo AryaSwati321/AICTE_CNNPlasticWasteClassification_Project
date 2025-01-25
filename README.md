@@ -3,11 +3,13 @@
 🌍 CNN Model for Waste Management
 A deep learning-based approach to classify waste into different categories using Convolutional Neural Networks (CNNs).
 
+
 📝 Overview
 This project aims to develop a CNN model that accurately classifies waste into categories such as:
 ♻️ Recyclable
 🗑️ Non-recyclable
 🍃 Organic, etc.
+
 
 The model is trained and tested on a dataset containing images of various waste types.
 ✨ Features
@@ -16,6 +18,7 @@ The model is trained and tested on a dataset containing images of various waste 
 ⚙️ Scripts for training and testing
 📊 Model evaluation using accuracy, precision, recall, and F1-score
 🛠️ Requirements
+
 
 Ensure you have the following installed:
 🐍 Python 3.x
@@ -28,8 +31,10 @@ Ensure you have the following installed:
 
 Clone the repository:
 git clone https://github.com/AryaSwati321/AICTE_CNNPlasticWasteClassification_Project
+
 Install dependencies:
 pip install -r requirements.txt  
+
 
 🏃‍♂️ Usage
 Train the model:
@@ -39,11 +44,13 @@ python test.py
 Evaluate the model:
 python evaluate.py  
 
+
 🗂️ Dataset
 The dataset used consists of images of various waste types, divided into:
 
 🏋️‍♂️ Training set
 🧪 Testing set
+
 
 🏗️ Model Architecture
  Depicts the architectural model of a Convolutional Neural Network (CNN) designed for plastic waste management:
